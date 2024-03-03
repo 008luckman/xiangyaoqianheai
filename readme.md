@@ -1,0 +1,1 @@
+Provides a simple statistics function that displays the number of tasks completed by the user
